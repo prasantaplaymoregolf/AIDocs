@@ -265,6 +265,32 @@ This messaging reinforces that the member is on auto-renewal and sets expectatio
 
 <img width="1911" height="977" alt="image" src="https://github.com/user-attachments/assets/672f028d-901d-4cff-b70d-46f73d522eda" />
 
+<img width="1910" height="940" alt="image" src="https://github.com/user-attachments/assets/45ee43fb-3d33-43bb-8d78-fe943acad0b6" />
+<img width="431" height="66" alt="image" src="https://github.com/user-attachments/assets/1ed9a540-2b93-42ca-82e8-b2da684ca560" />
+
+<img width="1907" height="901" alt="image" src="https://github.com/user-attachments/assets/72e87605-a7da-4fdf-879b-210a5397b895" />
+<img width="1689" height="992" alt="image" src="https://github.com/user-attachments/assets/0edd7cf1-112e-4c90-87f8-c390a513a9b9" />
+
+<img width="1595" height="711" alt="image" src="https://github.com/user-attachments/assets/45762860-71e6-41ac-b438-6bdc597aafa9" />
+
+<img width="1595" height="711" alt="image" src="https://github.com/user-attachments/assets/2b1af31d-d0b8-447d-9ef6-d1446ea36baa" />
+<img width="1353" height="506" alt="image" src="https://github.com/user-attachments/assets/6025b326-7434-4a6d-b2e8-1ef147e8fc98" />
+
+
+-- All auto-renew toggle events (Type 6 = AlterAutoRenew)
+
+SELECT Id, DateTime, AdminGuid, MemberGuid, AuditData
+
+FROM Audit
+
+WHERE Type = 6
+
+ORDER BY DateTime DESC
+
+<img width="1918" height="957" alt="image" src="https://github.com/user-attachments/assets/c1cb5c6b-d50d-4297-9ce9-39e1eb9264a5" />
+<img width="879" height="670" alt="image" src="https://github.com/user-attachments/assets/8581b8b0-407d-4416-8496-d1c7d28033e5" />
+
+
 
 ---
 

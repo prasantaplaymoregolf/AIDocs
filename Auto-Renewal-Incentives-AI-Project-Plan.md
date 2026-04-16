@@ -263,6 +263,9 @@ This messaging reinforces that the member is on auto-renewal and sets expectatio
 
 **Admin configures → Redis stores → Renewal job triggers → Bonus applied → Member rewarded → CRM updated**
 
+<img width="1911" height="977" alt="image" src="https://github.com/user-attachments/assets/672f028d-901d-4cff-b70d-46f73d522eda" />
+
+
 ---
 
 *PlayMoreGolf Platform — Auto Renewal Incentives Feature*
